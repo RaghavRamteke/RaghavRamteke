@@ -1,5 +1,4 @@
-<p align="center">
-<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5280F7&width=435&lines=Hi%F0%9F%91%8B+I'm+Raghav+Ramteke;Emerging+Embedded+%26+VLSI+Engineer;Chip+Designing+Enthusiast;An+A.I+Geek;Powerlifting+%26+Fitness+Enthusiast;Nice+to+meet+you"
+
 
 <!--
 **RaghavRamteke/RaghavRamteke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
