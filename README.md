@@ -6,7 +6,7 @@
 #### Got none so far😁 W.I.P
 -
 
-### 📢 Kudos to Keshab Kumar for inspiring the making this profile
+### 🥂 Kudos to Keshab Kumar, for helping me make this profile
 Go check him out 👇
 <p align="left"> <a href="https://github.com/Keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
 
