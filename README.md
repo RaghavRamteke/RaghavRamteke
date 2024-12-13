@@ -11,12 +11,23 @@ Go check him out 👇
 <p align="left"> <a href="https://github.com/Keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
 
 ## 🗺️ My current Endeavours:-
-- 🔭 I’m currently working @ **Edunet Internship**
-- 🌱 I’m currently learning **Electrical, Electronics and Communication Engineering**
+- 🔭 I’m currently working @ **Edunet Foundation**
+- 🌱 I’m currently studying **Electrical, Electronics and Communication Engineering**
 - 👯 I’m looking to collaborate on [Some Projects in the future](https://github.com/RaghavRamteke)
 - 🤔 I’m looking for help with [ideas/additions/modifications on my simple ChatBot](https://github.com/RaghavRamteke/Implementation-of-Chatbot-using-NLP-P4-)
 - 💬 Ask me about **Embedded systems/software, Computer-Aided Design(CAD), Very Large Scale Integration (VLSI), Python, MATLAB**
-- 📫 How to reach me: **ramtekeraghav1212@gmail.com**
+- 📫 How to reach me:-  <p align="left">
+  <a href="https://www.linkedin.com/in/raghav-p-ramteke-5625762b6/" target="blank">
+    <img src="https://img.shields.io/badge/Connect-Raghav%20P%20Ramteke-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Connect with Raghav P Ramteke on LinkedIn" />
+  </a>
+  <a href="mailto:ramtekeraghav1212@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Mail%20Me-ramtekeraghav1212@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Me at ramtekeraghav1212@gmail.com" />
+  </a>
+</p>
+
+
+
+  
 - ⚡ Fun fact: **I am keenly interested in 3D-printing machinery and software and plan to learn more about it as a side domain... I can also pistol-squat 120kg😁**
 
 ## 🎖️ Here's some of my best verified badges
