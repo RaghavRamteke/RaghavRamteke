@@ -39,6 +39,10 @@
 
 ## 📜 Here's some of my best verified Certificates
 <!--START_SECTION:certificates-->
+<a href="https://coursera.org/verify/specialization/CGRECYWBVWWD">
+  <img src="https://github.com/user-attachments/assets/7ecbc982-304f-478b-b902-553ed89c0ca5" alt="Embedded Software Development with C Specialization Certificate" width="400" height="300">
+</a>
+
 
 <h1 align="left">🤝 Connect with me</h1>
 <a href="https://www.linkedin.com/in/raghav-p-ramteke-5625762b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RaghavRamteke" height="30" width="40" /></a>
