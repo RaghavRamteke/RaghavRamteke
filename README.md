@@ -48,17 +48,38 @@
 <a href="https://coursera.org/verify/specialization/F2CFW5N8MT5T">
   <img src="https://github.com/user-attachments/assets/f6221a03-b056-4cf9-9cfa-9110a9039691" alt="MLOps | Machine Learning Operations" width="400" height="300">
 </a>
+<a href="https://coursera.org/verify/specialization/FLUBCKO7CQQU">
+  <img src="https://github.com/user-attachments/assets/88dbbd99-1b76-4873-afe5-23c33329c5df" alt="An Introduction to Programming the Internet of Things (IOT)" width="400" height="300">
+</a>
+<a href="https://coursera.org/verify/specialization/5ZXLI23DAC1V">
+  <img src="https://github.com/user-attachments/assets/00b2102a-06fa-4472-a1b4-186949ecb1b5" alt="Self-Driving Cars" width="400" height="300">
+</a>
+<a href="https://coursera.org/verify/specialization/IXV8ZPDDJEGI">
+  <img src="https://github.com/user-attachments/assets/3f752865-5248-4e4d-9259-1b737e938dfa" alt="Intelligent Digital Factories" width="400" height="300">
+</a>
+<a href="https://coursera.org/verify/specialization/S8MG2PE1FEE9">
+  <img src="https://github.com/user-attachments/assets/4312b001-09d5-46eb-b67b-f672af4fcb1a" alt="Information Technology (IT) and Cloud Fundamentals" width="400" height="300">
+</a>
+<a href="https://coursera.org/verify/professional-cert/YFNQS2VSU0PX">
+  <img src="https://github.com/user-attachments/assets/1255a6cb-7ccb-4d04-af80-138e4f2b5955" alt="AWS Cloud Technology Consultant" width="400" height="300">
+</a>
+<a href="https://matlabacademy.mathworks.com/progress/share/learningpath/certificate.html?id=98958969-1823-4be2-88bc-327fb753ff22&">
+  <img src="https://github.com/user-attachments/assets/e35df459-c83a-480d-996c-a3d90dfd9764" alt="MATLAB for the MathWorks Certified MATLAB Associate Exam" width="400" height="300">
+</a>
+<a href="https://matlabacademy.mathworks.com/progress/share/learningpath/certificate.html?id=3876db2e-94b9-43ba-9f22-78b253b690c3&">
+  <img src="https://github.com/user-attachments/assets/8be959d2-4fac-40dd-af4f-8acbc62fd3d2" alt="Build MATLAB Proficiency" width="400" height="300">
+</a>
 
-
-
-
-
-
-
-
-
-
-
+#### Check out my all my Certificates at:
+<a href="[https://coursera.org/verify/specialization/IXV8ZPDDJEGI](https://www.coursera.org/learner/raghav-pravin-ramteke-22254408101-5382)">
+  <img src="https://play-lh.googleusercontent.com/H8crzfriK6t5b0N5wXykhxMjPopyWGDZPaMJlvWlAKb7EG-26KGu15P_RnFDinBw1Jc=w240-h480-rw" alt="My Coursera" width="40" height="40">
+</a>
 
 <h1 align="left">🤝 Connect with me</h1>
-<a href="https://www.linkedin.com/in/raghav-p-ramteke-5625762b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RaghavRamteke" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raghav-p-ramteke-5625762b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RaghavRamteke" height="30" width="40" /></a> <a href="ramtekeraghav1212@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="RaghavRamteke" height="30" width="40" /></a> <a href="https://dott.bio/raghavramteke" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6156dffc8dabd6ac49f00770/6230ae17dbf6c86e2827f65f_dott_10.png" alt="RaghavRamteke" height="30" width="30" /></a>
+
+<h1 align="left">💻Languages and Tools</h1>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/048/332/171/non_2x/c-programming-icon-free-png.png" alt="django" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.autodesk.com/in/products/fusion-360/overview" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Autodesk Fusion 360" width="40" height="40"/> <a href= "https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*2STZmGfuaBZEACgUTTJzeg.png" alt="AWS" width="40" height="30"/> <a href= "https://companieslogo.com/img/orig/XLNX-e61d7a44.png?t=1720244494" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/XLNX-e61d7a44.png?t=1720244494" alt="Xilinx" width="40" height="40"/> <a href= "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="Vivado" width="40" height="40"/> <a href= "https://www.mathworks.com/products/simulink-online.html" target="_blank" rel="noreferrer"> <img src="https://disti.com/wp-content/uploads/2021/05/Add-Ons-Square-Image-Simulink.png" alt="Simulink" width="40" height="40"/> <a href= "https://www.vhdl-online.de/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/vhdl-icon-512x512-0zi6d3zd.png" alt="VHDL" width="40" height="40"/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavRamteke&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+
