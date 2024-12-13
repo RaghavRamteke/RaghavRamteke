@@ -42,6 +42,22 @@
 <a href="https://coursera.org/verify/specialization/CGRECYWBVWWD">
   <img src="https://github.com/user-attachments/assets/7ecbc982-304f-478b-b902-553ed89c0ca5" alt="Embedded Software Development with C Specialization Certificate" width="400" height="300">
 </a>
+<a href="https://coursera.org/verify/specialization/V5JF5T1LPIR3">
+  <img src="https://github.com/user-attachments/assets/c039f8f3-9c9a-4e4d-ac0d-76347b85b67a" alt="Chip based VLSI design for Industrial Applications" width="400" height="300">
+</a>
+<a href="https://coursera.org/verify/specialization/F2CFW5N8MT5T">
+  <img src="https://github.com/user-attachments/assets/f6221a03-b056-4cf9-9cfa-9110a9039691" alt="MLOps | Machine Learning Operations" width="400" height="300">
+</a>
+
+
+
+
+
+
+
+
+
+
 
 
 <h1 align="left">🤝 Connect with me</h1>
