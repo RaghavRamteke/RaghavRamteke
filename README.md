@@ -1,16 +1,21 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=28&lines=Hi👋+I'm+Raghav+Ramteke..;Emerging+Embedded💾+Engineer;Emerging+VLSI+Engineer..;AI🤖+Geek..;.Powerlifter💪🏼,+Fitness+Enthusiast..;Nice+To+Meet+You🤝+....&center=true"></a></p>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
 
 ## 🏆 GitHub Trophies
 #### Got none so far😁 W.I.P
--
 
+<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+  
 ### 🥂 Kudos to Keshab Kumar, for helping me make this profile
-Go check him out 👇
+Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
 <p align="left"> <a href="https://github.com/Keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
 
-## 🗺️ My current Endeavours:-
+##    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; My current Endeavours:-
 - 🔭 I’m currently working @ **Edunet Foundation**
 - 🌱 I’m currently studying **Electrical, Electronics and Communication Engineering**
 - 👯 I’m looking to collaborate on [Some Projects in the future](https://github.com/RaghavRamteke)
@@ -89,10 +94,13 @@ Go check him out 👇
   <img src="https://play-lh.googleusercontent.com/H8crzfriK6t5b0N5wXykhxMjPopyWGDZPaMJlvWlAKb7EG-26KGu15P_RnFDinBw1Jc=w240-h480-rw" alt="My Coursera" width="40" height="40">
 </a>
 
-<h1 align="left">🤝 Connect with me</h1>
+### <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> Connect with me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; 
+
 <a href="https://www.linkedin.com/in/raghav-p-ramteke-5625762b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RaghavRamteke" height="30" width="40" /></a> <a href="ramtekeraghav1212@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="RaghavRamteke" height="30" width="40" /></a> <a href="https://dott.bio/raghavramteke" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6156dffc8dabd6ac49f00770/6230ae17dbf6c86e2827f65f_dott_10.png" alt="RaghavRamteke" height="30" width="30" /></a>
 
-<h1 align="left">💻Languages and Tools</h1>
+### <h1 align="left">💻Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/048/332/171/non_2x/c-programming-icon-free-png.png" alt="django" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.autodesk.com/in/products/fusion-360/overview" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Autodesk Fusion 360" width="40" height="40"/> <a href= "https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*2STZmGfuaBZEACgUTTJzeg.png" alt="AWS" width="40" height="30"/> <a href= "https://companieslogo.com/img/orig/XLNX-e61d7a44.png?t=1720244494" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/XLNX-e61d7a44.png?t=1720244494" alt="Xilinx" width="40" height="40"/> <a href= "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="Vivado" width="40" height="40"/> <a href= "https://www.mathworks.com/products/simulink-online.html" target="_blank" rel="noreferrer"> <img src="https://disti.com/wp-content/uploads/2021/05/Add-Ons-Square-Image-Simulink.png" alt="Simulink" width="40" height="40"/> <a href= "https://www.vhdl-online.de/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/vhdl-icon-512x512-0zi6d3zd.png" alt="VHDL" width="40" height="40"/>
 
 ## 📊 GitHub Stats:
