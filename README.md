@@ -24,7 +24,7 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 - 🌱 I’m currently studying **Electrical, Electronics and Communication Engineering**
 - 👯 I’m looking to collaborate on [Some Projects in the future](https://github.com/RaghavRamteke)
 - 🤔 I’m looking for help with [ideas/additions/modifications for my ChatBot](https://github.com/RaghavRamteke/Implementation-of-Chatbot-using-NLP-P4-)
-- 💬 Ask me about **Embedded systems/software, C.A.D, Very Large Scale Integration V.L.S.I, Python, MATLAB**
+- 💬 Ask me about **Embedded systems/software, C.A.D, V.L.S.I, Python, MATLAB**
 - 📫 How to reach me:-  <p align="left">
   <a href="https://www.linkedin.com/in/raghav-p-ramteke-5625762b6/" target="blank">
     <img src="https://img.shields.io/badge/Connect-Raghav%20P%20Ramteke-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Connect with Raghav P Ramteke on LinkedIn" />
