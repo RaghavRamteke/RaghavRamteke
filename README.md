@@ -4,20 +4,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 #### Got none so far😁 W.I.P
 
 <p align="left">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" width="1000">
 <br><br>
   
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" /> Kudos to Keshab Kumar, for helping me make this profile
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" /> Kudos to Keshab Kumar, for helping me make this profile
 Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
 <p align="left"> <a href="https://github.com/Keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-##    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; My current Endeavours:-
+#    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; My current Endeavours:-
 <img width="35%" align="right" style="padding-left : -100%"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" />
 
 - 🔭 I’m currently working @ **Edunet Foundation**
@@ -39,7 +39,7 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## 🎖️ Here's some of my best verified badges
+# 🎖️ Here's some of my best verified badges
 <!--START_SECTION:badges-->
 [![Information Technology and Cloud Fundamentals Specialization Badge](https://images.credly.com/size/180x180/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png)](https://www.credly.com/badges/0b60a9d8-547f-4c2e-9247-cebe9ee0f5fd)
 [![Cybersecurity IT Fundamentals Specialization Badge](https://images.credly.com/size/180x180/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png)](https://www.credly.com/badges/76576981-a1bb-48b1-ac7d-b75e0292fb85)
@@ -62,7 +62,7 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 📜 Here's some of my best verified Certificates
+# 📜 Here's some of my best verified Certificates
 <!--START_SECTION:certificates-->
 <a href="https://coursera.org/verify/specialization/CGRECYWBVWWD">
   <img src="https://github.com/user-attachments/assets/7ecbc982-304f-478b-b902-553ed89c0ca5" alt="Embedded Software Development with C Specialization Certificate" width="400" height="300">
