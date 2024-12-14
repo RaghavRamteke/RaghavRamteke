@@ -55,7 +55,8 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 [![Fortinet Certified Fundamentals Cybersecurity Badge](https://images.credly.com/size/180x180/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/c9fc931f-a232-449a-b5e9-1fa67ba27e34)
 [![Artificial Intelligence Fundamentals Badge](https://images.credly.com/size/180x180/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](https://www.credly.com/badges/3c5e420d-7f58-4c0a-91aa-e585130d8bba)
 [![Fortinet FortiGate 7.4 Operator Badge](https://images.credly.com/size/180x180/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png)](https://www.credly.com/badges/9b4850c8-6cb8-4629-8999-172f4dcf8067)
-<img width="180" align="left" style="padding-left : -100%"  src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" />
+<img src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" width="180">
+
 ###### This one's not a badge↑
 
 ### Check out my all my badges at credly: 
