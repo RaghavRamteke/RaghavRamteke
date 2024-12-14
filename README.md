@@ -28,7 +28,7 @@ Go check him out 👇
 
 
   
-- ⚡ Fun fact: **I am keenly interested in 3D-printing machinery and software and plan to learn more about it as a side domain... I can also pistol-squat 120kg😁**
+- ⚡ Fun fact: **I am keenly interested in 3D-printing machinery and softwares and plan to learn more about it as a side domain... I can also pistol-squat 120kg😁**
 
 ## 🎖️ Here's some of my best verified badges
 <!--START_SECTION:badges-->
