@@ -39,7 +39,8 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-# 🎖️ Here's some of my best verified badges
+# 🎖️ Here's some of my best verified badges 
+
 <!--START_SECTION:badges-->
 [![Information Technology and Cloud Fundamentals Specialization Badge](https://images.credly.com/size/180x180/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png)](https://www.credly.com/badges/0b60a9d8-547f-4c2e-9247-cebe9ee0f5fd)
 [![Cybersecurity IT Fundamentals Specialization Badge](https://images.credly.com/size/180x180/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png)](https://www.credly.com/badges/76576981-a1bb-48b1-ac7d-b75e0292fb85)
@@ -129,4 +130,9 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
+<p align="center">
+<img src="https://cdnb.artstation.com/p/assets/images/images/029/462/049/original/pixel-jeff-waiting-ll-2.gif?1597639898" width="800">
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=28&lines=VISIT+AGAIN+SOON+....;&center=true"></a></p>
+
