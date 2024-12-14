@@ -57,7 +57,10 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 [![Fortinet FortiGate 7.4 Operator Badge](https://images.credly.com/size/180x180/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png)](https://www.credly.com/badges/9b4850c8-6cb8-4629-8999-172f4dcf8067)
 <img src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" width="200">
 
-### Check out my all my badges at credly: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(This one ain't a badge)
+
+
+## Check out my all my badges at credly: 
 
 [![Credly University open learning program Badges](https://i.vimeocdn.com/portrait/56718354_30x30?sig=11f603cc3e4cf2a0132ffec6038ae80901896e42b8638495e6d12d434bbee6ec&v=1)](https://www.credly.com/users/raghav-pravin-ramteke-pravin-ramteke) University open Learning Program 2024-25
 
