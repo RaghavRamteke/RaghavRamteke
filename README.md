@@ -18,7 +18,7 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 #    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; My current Endeavours:-
-<img width="35%" align="right" style="padding-left : -100%"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" />
+<img width="30%" align="right" style="padding-left : -100%"  src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
 
 - 🔭 I’m currently working @ **Edunet Foundation**
 - 🌱 I’m currently studying **Electrical, Electronics and Communication Engineering**
@@ -95,7 +95,7 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
   <img src="https://github.com/user-attachments/assets/8be959d2-4fac-40dd-af4f-8acbc62fd3d2" alt="Build MATLAB Proficiency" width="400" height="300">
 </a>
 
-#### Check out my all my Certificates at:
+### Check out my all my Certificates at:
 <a href="[https://coursera.org/verify/specialization/IXV8ZPDDJEGI](https://www.coursera.org/learner/raghav-pravin-ramteke-22254408101-5382)">
   <img src="https://play-lh.googleusercontent.com/H8crzfriK6t5b0N5wXykhxMjPopyWGDZPaMJlvWlAKb7EG-26KGu15P_RnFDinBw1Jc=w240-h480-rw" alt="My Coursera" width="40" height="40">
 </a>
@@ -125,7 +125,8 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghavRamteke&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-
 ![github-user-contribution](https://github.com/user-attachments/assets/0952ebd2-3886-4e47-832d-4be5d96d1fb0)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
