@@ -150,6 +150,8 @@ Feel free to explore my projects and connect—I’m always eager to collaborate
 
 ![github-user-contribution (2)](https://github.com/user-attachments/assets/0b675c80-6f53-47c9-9fc4-9febda5ff300)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/RaghavRamteke/RaghavRamteke/main/github-snake.svg)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
