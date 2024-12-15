@@ -44,11 +44,18 @@
 - ⚡ Fun fact: **I am keenly interested in 3D-printing machinery and software and plan to learn more about it as a side domain... I can also pistol-squat 120kg😁**
 <details>
   <summary><h3>🙋More about me</h3></summary>
-  I am an aspiring engineer currently pursuing a Bachelor's degree in Electrical Electronics & Communication Engineering (E.E.C.E.), with a specialization in Very Large Scale Integration (V.L.S.I). Passionate about innovation, I have actively contributed to projects as a Developer, Designer, and Scrutinizer, collaborating with the G-Electra Smart Systems Club to solve real-world challenges. My fascination with semiconductors and chip design fuels my ambition to create groundbreaking technologies, while my expertise in 3D printing software and technology enables me to transform ideas into tangible prototypes.  
+  I am a multi-faceted individual with a strong blend of technical, intellectual, and personal interests. My passion lies in the fields of engineering, with a specialization in Very Large Scale Integration (VLSI), semiconductors, and IoT. With hands-on experience in creating innovative projects like aerial drones and seizure monitoring systems, I enjoy approaching challenges with creativity and a problem-solving mindset. My academic pursuits are complemented by certifications in advanced programming, microcontrollers, and IoT systems, reflecting my commitment to continuous learning and technical expertise.  
 
-Beyond academics, I am a PowerBuilder who balances physical and mental discipline by training for strength and hypertrophy. As an advocate of fitness and wellness, I firmly believe that a strong, healthy body complements a sharp mind, forming the foundation for a successful career and lifestyle. My dedication to growth—be it in engineering, fitness, or interdisciplinary projects like IoT, AI applications, and embedded systems—drives me to constantly push my limits and contribute meaningfully to the teams and communities I am part of.  
+I also have a deep appreciation for fitness and strength training, which has instilled in me discipline, perseverance, and a focus on self-improvement. Beyond technical and physical pursuits, I actively explore strategies for cybersecurity, network protection, and digital factory transformations, always aiming to find practical and effective solutions. I value precision, clarity, and an organized approach, which is evident in my work on projects like MATLAB applications and Excel-based data consolidation tools.  
 
-Feel free to explore my projects and connect—I’m always eager to collaborate and learn!
+Driven by curiosity and innovation, I balance analytical rigour with a passion for making a tangible impact—whether in engineering, fitness, or ensuring the safety and security of connected environments.  
+
+Feel free to explore my page and connect—I’m always eager to collaborate and learn!
+
+<h2>Employer? Check out my resume</h2> <a href="https://app.enhancv.com/share/8a61f52b/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Raghav Ramteke One-shot Resume" width="100" />
+
+    
 </details>
   
   
