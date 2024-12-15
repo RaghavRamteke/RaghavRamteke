@@ -38,7 +38,16 @@
 </p>  
 
 - ⚡ Fun fact: **I am keenly interested in 3D-printing machinery and software and plan to learn more about it as a side domain... I can also pistol-squat 120kg😁**
+<details>
+  <summary><h3>🙋More about me</h3></summary>
+  I am an aspiring engineer currently pursuing a Bachelor's degree in Electrical Electronics & Communication Engineering (E.E.C.E.), with a specialization in Very Large Scale Integration (V.L.S.I). Passionate about innovation, I have actively contributed to projects as a Developer, Designer, and Scrutinizer, collaborating with the G-Electra Smart Systems Club to solve real-world challenges. My fascination with semiconductors and chip design fuels my ambition to create groundbreaking technologies, while my expertise in 3D printing software and technology enables me to transform ideas into tangible prototypes.  
 
+Beyond academics, I am a PowerBuilder who balances physical and mental discipline by training for strength and hypertrophy. As an advocate of fitness and wellness, I firmly believe that a strong, healthy body complements a sharp mind, forming the foundation for a successful career and lifestyle. My dedication to growth—be it in engineering, fitness, or interdisciplinary projects like IoT, AI applications, and embedded systems—drives me to constantly push my limits and contribute meaningfully to the teams and communities I am part of.  
+
+Feel free to explore my projects and connect—I’m always eager to collaborate and learn!
+</details>
+  
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
