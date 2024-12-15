@@ -5,9 +5,10 @@
 
 
 # 🏆 GitHub Trophies
-<img width="47%" align="right" style="padding-left : -100%"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaghavRamteke&row=2&column=4&theme=dark_lover)](https://github.com/RaghavRamteke/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaghavRamteke&theme=dark_lover)](https://github.com/RaghavRamteke/github-profile-trophy) <p align="center">
+<p align="center"><img width="900" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
+
 
 
 <p align="left">
