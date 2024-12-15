@@ -30,8 +30,15 @@
 - 💬 Ask me about **Embedded systems/software, C.A.D, V.L.S.I, Python, MATLAB**
 - 📫 How to reach me:-  <p align="left">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Connect with Raghav P Ramteke on LinkedIn" /> 
-<img src="https://img.shields.io/badge/Mail%20Me-ramtekeraghav1212@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Me at ramtekeraghav1212@gmail.com" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/raghav-p-ramteke-5625762b6/" target="blank">
+    <img src="https://img.shields.io/badge/Connect-Raghav%20P%20Ramteke-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Connect with Raghav P Ramteke on LinkedIn" />
+  </a>
+  <a href="mailto:ramtekeraghav1212@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Mail%20Me-ramtekeraghav1212@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Me at ramtekeraghav1212@gmail.com" />
+  </a>
+</p>
+
  
 
 - ⚡ Fun fact: **I am keenly interested in 3D-printing machinery and software and plan to learn more about it as a side domain... I can also pistol-squat 120kg😁**
