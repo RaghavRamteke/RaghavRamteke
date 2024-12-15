@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=35&lines=Hi👋+I'm+Raghav+Ramteke..;Emerging+Embedded💾+Engineer;Emerging+VLSI+Engineer..;AI🤖+Geek..;.Powerlifter💪🏼,+Fitness+Enthusiast..;Nice+To+Meet+You🤝+....&center=true"></a></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=45&lines=Hi👋+I'm+Raghav+Ramteke..;Emerging+Embedded💾+Engineer;Emerging+VLSI+Engineer..;AI🤖+Geek..;.Powerlifter💪🏼,+Fitness+Enthusiast..;Nice+To+Meet+You🤝+....&center=true"></a></p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -7,7 +7,7 @@
 # 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaghavRamteke&theme=dark_lover)](https://github.com/RaghavRamteke/github-profile-trophy) <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=CFF725FF&width=380&height=35&lines=Bit+Underwhelming+innit+...;It's+W.I.P😁&center=true"></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=CFF725&center=true&multiline=true&width=435&lines=Bit+underwhelming+innit%3F....+;It's+W.I.P%F0%9F%98%81" alt="Typing SVG" /></a>
 <p align="center"><img width="900" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
 
 
