@@ -7,8 +7,8 @@
 # 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaghavRamteke&theme=dark_lover)](https://github.com/RaghavRamteke/github-profile-trophy) <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=CFF725&center=true&multiline=true&width=435&lines=Bit+underwhelming+innit%3F....+;It's+W.I.P%F0%9F%98%81" alt="Typing SVG" /></a>
-<p align="center"><img width="900" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1999&pause=1000&color=CFF725&center=true&multiline=true&repeat=false&width=435&lines=Bit+underwhelming+innit%3F....+;It's+W.I.P%F0%9F%98%81" alt="Typing SVG" /></a>
+<p align="center"><img width="1200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
 
 
 
