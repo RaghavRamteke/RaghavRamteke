@@ -2,20 +2,26 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=28&lines=Hi👋+I'm+Raghav+Ramteke..;Emerging+Embedded💾+Engineer;Emerging+VLSI+Engineer..;AI🤖+Geek..;.Powerlifter💪🏼,+Fitness+Enthusiast..;Nice+To+Meet+You🤝+....&center=true"></a></p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
+
 
 # 🏆 GitHub Trophies
-#### Got none so far😁 W.I.P
+<img width="55%" align="right" style="padding-left : -100%"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaghavRamteke&row=2&column=4&theme=dark_lover)](https://github.com/RaghavRamteke/github-profile-trophy) 
+<img width="10.9%" align="left" style="padding-left : -100%"  src="https://mir-s3-cdn-cf.behance.net/project_modules/source/60559891839347.5e3bf9034330d.gif" />
+<img width="10.9%" align="left" style="padding-left : -100%"  src="https://mir-s3-cdn-cf.behance.net/project_modules/source/1e383991839347.5e3bf90342dac.gif" />
+<img width="10.9%" align="left" style="padding-left : -100%"  src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" />
+
+
+
 
 <p align="left">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" width="1000">
 <br><br>
-  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" /> Kudos to Keshab Kumar, for helping me make this profile
-Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
-<p align="left"> <a href="https://github.com/Keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" /> Kudos to Keshab Kumar for helping me make this profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> <a href="https://github.com/Keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
+
 
 #    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; My current Endeavours:-
 <img width="30%" align="right" style="padding-left : -100%"  src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
@@ -55,7 +61,7 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 [![Fortinet Certified Fundamentals Cybersecurity Badge](https://images.credly.com/size/180x180/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/c9fc931f-a232-449a-b5e9-1fa67ba27e34)
 [![Artificial Intelligence Fundamentals Badge](https://images.credly.com/size/180x180/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](https://www.credly.com/badges/3c5e420d-7f58-4c0a-91aa-e585130d8bba)
 [![Fortinet FortiGate 7.4 Operator Badge](https://images.credly.com/size/180x180/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png)](https://www.credly.com/badges/9b4850c8-6cb8-4629-8999-172f4dcf8067)
-<img src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" width="200">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/b3672f190584333.65bd00f3b0acc.gif" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(This one ain't a badge)
 
