@@ -5,10 +5,10 @@
 
 
 # 🏆 GitHub Trophies
-<img width="47%" align="right" style="padding-left : -100%"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaghavRamteke&row=2&column=4&theme=dark_lover)](https://github.com/RaghavRamteke/github-profile-trophy) 
-<img width="13%"  src="https://mir-s3-cdn-cf.behance.net/project_modules/source/60559891839347.5e3bf9034330d.gif" /><img width="13%"   src="https://mir-s3-cdn-cf.behance.net/project_modules/source/1e383991839347.5e3bf90342dac.gif" /><img width="13%"   src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaghavRamteke&theme=dark_lover)](https://github.com/RaghavRamteke/github-profile-trophy) 
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" /></a></p>
+
 
 
 
