@@ -1,4 +1,4 @@
-<p align="center">
+3<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=45&lines=Hi👋+I'm+Raghav+Ramteke..;Emerging+Embedded💾+Engineer;Emerging+VLSI+Engineer..;AI🤖+Geek..;.Powerlifter💪🏼,+Fitness+Enthusiast..;Nice+To+Meet+You🤝+....&center=true"></a></p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -67,7 +67,9 @@ Feel free to explore my projects and connect—I’m always eager to collaborate
 [![Fortinet Certified Fundamentals Cybersecurity Badge](https://images.credly.com/size/180x180/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/c9fc931f-a232-449a-b5e9-1fa67ba27e34)
 [![Artificial Intelligence Fundamentals Badge](https://images.credly.com/size/180x180/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](https://www.credly.com/badges/3c5e420d-7f58-4c0a-91aa-e585130d8bba)
 [![Fortinet FortiGate 7.4 Operator Badge](https://images.credly.com/size/180x180/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png)](https://www.credly.com/badges/9b4850c8-6cb8-4629-8999-172f4dcf8067)
-<img width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/source/60559891839347.5e3bf9034330d.gif" /><img width="200"   src="https://mir-s3-cdn-cf.behance.net/project_modules/source/1e383991839347.5e3bf90342dac.gif" /><img width="200"   src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" />
+<img width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/source/60559891839347.5e3bf9034330d.gif" />
+<img width="200"   src="https://mir-s3-cdn-cf.behance.net/project_modules/source/1e383991839347.5e3bf90342dac.gif" />
+<img width="200"   src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(These ones ain't badges)
 
 
