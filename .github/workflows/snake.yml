@@ -20,7 +20,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: RaghavRamteke
-          output: dist/github-snake.svg
+          outputs: dist/github-snake.svg # Corrected input
 
       - name: Commit and Push Snake Animation
         run: |
