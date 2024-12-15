@@ -121,7 +121,10 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-#  <img src="https://media0.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif?cid=ecf05e47lx1thg8e61tjqfpr4zemby622so2pa1j3sqcsbxp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> GitHub Stats: 
+#  <img src="https://media0.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif?cid=ecf05e47lx1thg8e61tjqfpr4zemby622so2pa1j3sqcsbxp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> GitHub Stats:
+
+
+ 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavRamteke&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://streak-stats.demolab.com?user=RaghavRamteke&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
@@ -137,7 +140,6 @@ Go check him out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 
 <p align="center">
 <img src="https://cdnb.artstation.com/p/assets/images/images/029/462/049/original/pixel-jeff-waiting-ll-2.gif?1597639898" width="800">
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=28&lines=VISIT+AGAIN+SOON+....;&center=true"></a></p>
+<img width="50%" align="center" style="padding-left : -50%"  src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=28&lines=VISIT+AGAIN+SOON+...." />
+<img width="50%" align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=400&pause=10&background=FFFEF300&multiline=true&repeat=false&width=500&height=260&lines=+%2F_%24%24%24%24%24%24+++__%2F%24%24%24%24%24+_+%2F%24%24%24%24%24++_%2F%24%24+++_%2F%24%24++_%2F%24%24%24%24%24++_%2F%24%24++++_%2F%24%24;%7C+%24%24__++%24%24+%2F%24%24__++%24%24+%2F%24%24__++%24%24%7C+%24%24++%7C+%24%24+%2F%24%24__++%24%24%7C+%24%24+++%7C+%24%24++++++;%7C+%24%24++%5C+%24%24%7C+%24%24++%5C+%24%24%7C+%24%24++%5C__%2F%7C+%24%24++%7C+%24%24%7C+%24%24++%5C+%24%24%7C+%24%24+++%7C+%24%24++++++;%7C+%24%24%24%24%24%24%2F%7C+%24%24%24%24%24%24%24%7C+%24%24+%2F%24%24%24%7C+%24%24%24%24%24%24%24%7C+%24%24%24%24%24%24%24%7C++%24%24+%2F+%24%24+++++;%7C+%24%24__++%24%24%7C+%24%24__++%24%24%7C+%24%24%7C_++%24%24%7C+%24%24__++%24%24%7C+%24%24__++%24%24+%5C++%24%24+%24%24%2F+++++++;%7C+%24%24++%5C+%24%24%7C+%24%24++%7C+%24%24%7C+%24%24++%5C+%24%24%7C+%24%24++%7C+%24%24%7C+%24%24++%7C+%24%24++_%5C++%24%24%24%2F++++++++;%7C+%24%24++%7C+%24%24%7C+%24%24++%7C+%24%24%7C++%24%24%24%24%24%24%2F%7C+%24%24++%7C+%24%24%7C+%24%24++%7C+%24%24+++__%5C++%24%2F+++++++++;%7C__%2F++%7C__%2F%7C__%2F++%7C__%2F+%5C_____%2F+%7C__%2F+%7C__%2F%7C__%2F++%7C__%2F++++___%5C%2F++++++++++;_______________________________________________________________________;+_%2F%24%24%24%24%24%24+++__%2F%24%24%24%24%24++_%2F%24%24++++++_____%2F%24%24+%2F%24%24%24%24%24%24%24%24+%2F%24%24%24%24%24%24%24%24+%2F%24%24+++_%2F_%24%24%2F+%24%24%24%24%24%24%24%24;%7C+%24%24__++%24%24+%2F%24%24__++%24%24%7C+%24%24%24++++___%2F%24%24%24+%7C__+%24%24__%2F%7C+%24%24_____%2F%7C+%24%24++%2F_%24%24%2F%7C+%24%24_____%2F;%7C+%24%24++%5C+%24%24%7C+%24%24++%5C+%24%24%7C+%24%24%24%24++_%2F%24%24%24%24+++__%7C+%24%24+++__%7C+%24%24++++++_____%7C+%24%24%2F_%24%24%2F+%7C+%24%24++++++;%7C+%24%24%24%24%24%24%2F%7C+%24%24%24%24%24%24%24%7C+%24%24+%24%24%2F%24%24+%24%24+++__%7C+%24%24+++__%7C+%24%24%24%24%24+++__%7C+%24%24%24%24%24%2F++_%7C+%24%24%24%24%24+++;%7C+%24%24__++%24%24%7C+%24%24__++%24%24%7C+%24%24++_%24%24%24%7C+%24%24+++__%7C+%24%24+++__%7C+%24%24__%2F+++__%7C+%24%24++%24%24++__%7C+%24%24__%2F+++;%7C+%24%24++%5C+%24%24%7C+%24%24++%7C+%24%24%7C+%24%24_%5C++%24+%7C+%24%24+++__%7C+%24%24+++__%7C+%24%24++++++_____%7C+%24%24%5C++%24%24+_%7C+%24%24++++++;%7C+%24%24++%7C+%24%24%7C+%24%24++%7C+%24%24%7C+%24%24+_%5C%2F++%7C+%24%24+++__%7C+%24%24+++__%7C+%24%24%24%24%24%24%24%24%7C+%24%24+%5C++%24%24_%7C+%24%24%24%24%24%24%24%24;%7C__%2F++%7C__%2F%7C__%2F++%7C__%2F%7C__%2F_____%7C__%2F+++__%7C__%2F+++__%7C________%2F%7C__%2F++_%5C_%2F_%7C________%2F" /> <img width="50%" align="center" style="padding-left : -50%"  src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=28&lines=VISIT+AGAIN+SOON+...." />
 
