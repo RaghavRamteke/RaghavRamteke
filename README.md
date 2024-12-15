@@ -29,6 +29,7 @@
 - 🤔 I’m looking for help with [ideas/additions/modifications for my ChatBot](https://github.com/RaghavRamteke/Implementation-of-Chatbot-using-NLP-P4-)
 - 💬 Ask me about **Embedded systems/software, C.A.D, V.L.S.I, Python, MATLAB**
 - 📫 How to reach me:-  <p align="left">
+
   <a href="https://www.linkedin.com/in/raghav-p-ramteke-5625762b6/" target="blank">
     <img src="https://img.shields.io/badge/Connect-Raghav%20P%20Ramteke-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Connect with Raghav P Ramteke on LinkedIn" />
   </a>
@@ -147,7 +148,8 @@ Feel free to explore my projects and connect—I’m always eager to collaborate
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghavRamteke&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![github-user-contribution](https://github.com/user-attachments/assets/0952ebd2-3886-4e47-832d-4be5d96d1fb0)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
+![github-user-contribution (2)](https://github.com/user-attachments/assets/0b675c80-6f53-47c9-9fc4-9febda5ff300)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
