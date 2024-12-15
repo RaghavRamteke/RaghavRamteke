@@ -73,34 +73,34 @@
 # 📜 Here's some of my best verified Certificates
 <!--START_SECTION:certificates-->
 <a href="https://coursera.org/verify/specialization/CGRECYWBVWWD">
-  <img src="https://github.com/user-attachments/assets/7ecbc982-304f-478b-b902-553ed89c0ca5" alt="Embedded Software Development with C Specialization Certificate" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/7ecbc982-304f-478b-b902-553ed89c0ca5" alt="Embedded Software Development with C Specialization Certificate" width="300" height="225">
 </a>
 <a href="https://coursera.org/verify/specialization/V5JF5T1LPIR3">
-  <img src="https://github.com/user-attachments/assets/c039f8f3-9c9a-4e4d-ac0d-76347b85b67a" alt="Chip based VLSI design for Industrial Applications" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/c039f8f3-9c9a-4e4d-ac0d-76347b85b67a" alt="Chip based VLSI design for Industrial Applications" width="300" height="225">
 </a>
 <a href="https://coursera.org/verify/specialization/F2CFW5N8MT5T">
-  <img src="https://github.com/user-attachments/assets/f6221a03-b056-4cf9-9cfa-9110a9039691" alt="MLOps | Machine Learning Operations" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/f6221a03-b056-4cf9-9cfa-9110a9039691" alt="MLOps | Machine Learning Operations" width="300" height="225">
 </a>
 <a href="https://coursera.org/verify/specialization/FLUBCKO7CQQU">
-  <img src="https://github.com/user-attachments/assets/88dbbd99-1b76-4873-afe5-23c33329c5df" alt="An Introduction to Programming the Internet of Things (IOT)" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/88dbbd99-1b76-4873-afe5-23c33329c5df" alt="An Introduction to Programming the Internet of Things (IOT)" width="300" height="225">
 </a>
 <a href="https://coursera.org/verify/specialization/5ZXLI23DAC1V">
-  <img src="https://github.com/user-attachments/assets/00b2102a-06fa-4472-a1b4-186949ecb1b5" alt="Self-Driving Cars" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/00b2102a-06fa-4472-a1b4-186949ecb1b5" alt="Self-Driving Cars" width="300" height="225">
 </a>
 <a href="https://coursera.org/verify/specialization/IXV8ZPDDJEGI">
-  <img src="https://github.com/user-attachments/assets/3f752865-5248-4e4d-9259-1b737e938dfa" alt="Intelligent Digital Factories" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/3f752865-5248-4e4d-9259-1b737e938dfa" alt="Intelligent Digital Factories" width="300" height="225">
 </a>
 <a href="https://coursera.org/verify/specialization/S8MG2PE1FEE9">
-  <img src="https://github.com/user-attachments/assets/4312b001-09d5-46eb-b67b-f672af4fcb1a" alt="Information Technology (IT) and Cloud Fundamentals" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/4312b001-09d5-46eb-b67b-f672af4fcb1a" alt="Information Technology (IT) and Cloud Fundamentals" width="300" height="225">
 </a>
 <a href="https://coursera.org/verify/professional-cert/YFNQS2VSU0PX">
-  <img src="https://github.com/user-attachments/assets/1255a6cb-7ccb-4d04-af80-138e4f2b5955" alt="AWS Cloud Technology Consultant" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/1255a6cb-7ccb-4d04-af80-138e4f2b5955" alt="AWS Cloud Technology Consultant" width="300" height="225">
 </a>
 <a href="https://matlabacademy.mathworks.com/progress/share/learningpath/certificate.html?id=98958969-1823-4be2-88bc-327fb753ff22&">
-  <img src="https://github.com/user-attachments/assets/e35df459-c83a-480d-996c-a3d90dfd9764" alt="MATLAB for the MathWorks Certified MATLAB Associate Exam" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/e35df459-c83a-480d-996c-a3d90dfd9764" alt="MATLAB for the MathWorks Certified MATLAB Associate Exam" width="300" height="225">
 </a>
 <a href="https://matlabacademy.mathworks.com/progress/share/learningpath/certificate.html?id=3876db2e-94b9-43ba-9f22-78b253b690c3&">
-  <img src="https://github.com/user-attachments/assets/8be959d2-4fac-40dd-af4f-8acbc62fd3d2" alt="Build MATLAB Proficiency" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/8be959d2-4fac-40dd-af4f-8acbc62fd3d2" alt="Build MATLAB Proficiency" width="300" height="225">
 </a>
 
 ### Check out my all my Certificates at:
