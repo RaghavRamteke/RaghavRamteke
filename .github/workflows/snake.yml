@@ -19,8 +19,8 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: RaghavRamteke
-          outputs: dist/github-snake.svg # Corrected input
+          github_user_name: RaghavRamteke # Make sure this is correct
+          outputs: dist/github-snake.svg
 
       - name: Commit and Push Snake Animation
         run: |
