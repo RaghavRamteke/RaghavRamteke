@@ -81,7 +81,7 @@ Feel free to explore my page and connect—I’m always eager to collaborate and
 <img width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/source/60559891839347.5e3bf9034330d.gif" />
 <img width="200"   src="https://mir-s3-cdn-cf.behance.net/project_modules/source/1e383991839347.5e3bf90342dac.gif" />
 <img width="200"   src="https://64.media.tumblr.com/c3d4ce9f64bc151f896f1a5168a96f40/a80d34eddd1e73ee-b7/s1280x1920/6c90222a13dada97d7d464ea05d4192aa09528de.gif" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(These ones ain't badges)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(These ones ain't badges)
 
 
 ## Check out my all my badges at credly: 
