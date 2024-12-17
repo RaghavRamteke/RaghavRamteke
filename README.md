@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=45&lines=Hi👋+I'm+Raghav+Ramteke..;Emerging+Embedded💾+Engineer;Emerging+VLSI+Engineer..;AI🤖+Geek..;.Powerlifter💪🏼,+Fitness+Enthusiast..;Nice+To+Meet+You🤝+....&center=true"></a></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=480&height=45&lines=Hi👋+I'm+Raghav+Ramteke..;Emerging+Embedded💾+and+VLSI+Engineer..;AI+Geek..;PowerBuilder💪🏼,+Fitness+Enthusiast..;Nice+To+Meet+You🤝+....&center=true"></a></p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
