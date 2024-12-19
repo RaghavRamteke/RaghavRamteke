@@ -152,7 +152,9 @@ Feel free to explore my page and connect—I’m always eager to collaborate and
 
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavRamteke&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <img src="https://streak-stats.demolab.com?user=RaghavRamteke&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
 
 ![](https://github-readme-stats.vercel.app/api?username=RaghavRamteke&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/b3672f190584333.65bd00f3b0acc.gif" width="197">
@@ -160,13 +162,16 @@ Feel free to explore my page and connect—I’m always eager to collaborate and
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghavRamteke&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![github-user-contribution (2)](https://github.com/user-attachments/assets/0b675c80-6f53-47c9-9fc4-9febda5ff300)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavRamteke&theme=radical&hide_border=false" />
+
+![github-user-contribution](https://github.com/user-attachments/assets/6fc7e41c-7166-4819-a731-aef311dada80)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
 <img src="https://cdnb.artstation.com/p/assets/images/images/029/462/049/original/pixel-jeff-waiting-ll-2.gif?1597639898" width="800">
+    
 <img width="50%" align="center" style="padding-left : -50%"  src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=28&lines=VISIT+AGAIN+SOON+...." />
 <img width="50%" align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=10&pause=100&background=FFFEF300&multiline=true&repeat=True&width=500&height=260&lines=+%2F_%24%24%24%24%24%24+++__%2F%24%24%24%24%24+_+%2F%24%24%24%24%24++_%2F%24%24+++_%2F%24%24++_%2F%24%24%24%24%24++_%2F%24%24++++_%2F%24%24;%7C+%24%24__++%24%24+%2F%24%24__++%24%24+%2F%24%24__++%24%24%7C+%24%24++%7C+%24%24+%2F%24%24__++%24%24%7C+%24%24+++%7C+%24%24++++++;%7C+%24%24++%5C+%24%24%7C+%24%24++%5C+%24%24%7C+%24%24++%5C__%2F%7C+%24%24++%7C+%24%24%7C+%24%24++%5C+%24%24%7C+%24%24+++%7C+%24%24++++++;%7C+%24%24%24%24%24%24%2F%7C+%24%24%24%24%24%24%24%7C+%24%24+%2F%24%24%24%7C+%24%24%24%24%24%24%24%7C+%24%24%24%24%24%24%24%7C++%24%24+%2F+%24%24+++++;%7C+%24%24__++%24%24%7C+%24%24__++%24%24%7C+%24%24%7C_++%24%24%7C+%24%24__++%24%24%7C+%24%24__++%24%24+%5C++%24%24+%24%24%2F+++++++;%7C+%24%24++%5C+%24%24%7C+%24%24++%7C+%24%24%7C+%24%24++%5C+%24%24%7C+%24%24++%7C+%24%24%7C+%24%24++%7C+%24%24++_%5C++%24%24%24%2F++++++++;%7C+%24%24++%7C+%24%24%7C+%24%24++%7C+%24%24%7C++%24%24%24%24%24%24%2F%7C+%24%24++%7C+%24%24%7C+%24%24++%7C+%24%24+++__%5C++%24%2F+++++++++;%7C__%2F++%7C__%2F%7C__%2F++%7C__%2F+%5C_____%2F+%7C__%2F+%7C__%2F%7C__%2F++%7C__%2F++++___%5C%2F++++++++++;_______________________________________________________________________;+_%2F%24%24%24%24%24%24+++__%2F%24%24%24%24%24++_%2F%24%24++++++_____%2F%24%24+%2F%24%24%24%24%24%24%24%24+%2F%24%24%24%24%24%24%24%24+%2F%24%24+++_%2F_%24%24%2F+%24%24%24%24%24%24%24%24;%7C+%24%24__++%24%24+%2F%24%24__++%24%24%7C+%24%24%24++++___%2F%24%24%24+%7C__+%24%24__%2F%7C+%24%24_____%2F%7C+%24%24++%2F_%24%24%2F%7C+%24%24_____%2F;%7C+%24%24++%5C+%24%24%7C+%24%24++%5C+%24%24%7C+%24%24%24%24++_%2F%24%24%24%24+++__%7C+%24%24+++__%7C+%24%24++++++_____%7C+%24%24%2F_%24%24%2F+%7C+%24%24++++++;%7C+%24%24%24%24%24%24%2F%7C+%24%24%24%24%24%24%24%7C+%24%24+%24%24%2F%24%24+%24%24+++__%7C+%24%24+++__%7C+%24%24%24%24%24+++__%7C+%24%24%24%24%24%2F++_%7C+%24%24%24%24%24+++;%7C+%24%24__++%24%24%7C+%24%24__++%24%24%7C+%24%24++_%24%24%24%7C+%24%24+++__%7C+%24%24+++__%7C+%24%24__%2F+++__%7C+%24%24++%24%24++__%7C+%24%24__%2F+++;%7C+%24%24++%5C+%24%24%7C+%24%24++%7C+%24%24%7C+%24%24_%5C++%24+%7C+%24%24+++__%7C+%24%24+++__%7C+%24%24++++++_____%7C+%24%24%5C++%24%24+_%7C+%24%24++++++;%7C+%24%24++%7C+%24%24%7C+%24%24++%7C+%24%24%7C+%24%24+_%5C%2F++%7C+%24%24+++__%7C+%24%24+++__%7C+%24%24%24%24%24%24%24%24%7C+%24%24+%5C++%24%24_%7C+%24%24%24%24%24%24%24%24;%7C__%2F++%7C__%2F%7C__%2F++%7C__%2F%7C__%2F_____%7C__%2F+++__%7C__%2F+++__%7C________%2F%7C__%2F++_%5C_%2F_%7C________%2F" /> <img width="50%" align="center" style="padding-left : -50%"  src="https://readme-typing-svg.herokuapp.com?color=02F7A3FF&width=380&height=28&lines=VISIT+AGAIN+SOON+...." />
 
